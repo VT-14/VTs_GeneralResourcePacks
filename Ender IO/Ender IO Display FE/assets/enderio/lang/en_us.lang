@@ -1,0 +1,11 @@
+#PARSE_ESCAPES
+
+enderio.power.symbol=FE
+enderio.power.format=%s FE
+enderio.power.format.of=%s / %s FE
+enderio.power.format.pertick=%s FE/t
+enderio.power.format.name=Forge Energy (%s)
+
+enderio.top.rf.value.post=\u0020FE/t
+
+enderio.top.suffix.rf=\u0020FE
