@@ -1,0 +1,6 @@
+Version 1.1:
+-Corrected two µI references in the machines subsection.
+-Fixed description on the 'red bar only' pack.
+
+Version 1.0:
+-Initial Creation
