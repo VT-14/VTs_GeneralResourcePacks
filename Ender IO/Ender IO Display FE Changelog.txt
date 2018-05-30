@@ -1,3 +1,9 @@
+Version 1.2:
+-Rearanged versions.  Base Ender IO now has a purple power bar texture (that I made).  The text only file is now the default, and the red bar was moved to the additional files section.
+-Added comments to the en_us.lang file to indicate if the entries come from Ender IO Base or Ender IO Machines.
+-Gave each pack its own pack.png image.
+-Removed version numbers from the file names.  Any future updates should not have to re-enable the resource pack.
+
 Version 1.1:
 -Corrected two µI references in the machines subsection.
 -Fixed description on the 'red bar only' pack.
